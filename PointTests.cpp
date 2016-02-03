@@ -1,7 +1,7 @@
 #include <iostream>
 #include <iomanip>
 #include <cmath>
-#include <cassert>
+#include <cassert> 
 
 #include "Point.h"
 #include "ErrorContext.h"

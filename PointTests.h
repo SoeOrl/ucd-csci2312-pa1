@@ -1,4 +1,4 @@
-#ifndef POINTTESTS_H
+#ifndef POINTTESTS_H 
 #define POINTTESTS_H
 
 #include "Point.h"

@@ -1,4 +1,4 @@
-// main.cpp
+// main.cpp 
 #include <iostream>
 #include <fstream>
 #include <sstream>
@@ -37,6 +37,6 @@ int main() {
     // area tests
     test_area(ec, NumIters);
 
-
+	system("pause");
     return 0;
 }

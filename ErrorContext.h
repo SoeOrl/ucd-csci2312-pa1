@@ -1,5 +1,5 @@
 //
-// Created by Ivo Georgiev on 11/13/15.
+// Created by Ivo Georgiev on 11/13/15. 
 //
 
 #ifndef CLUSTERING_ERRORCONTEXT_H
