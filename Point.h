@@ -1,4 +1,4 @@
-// A 3-dimensional point class!
+// A 3-dimensional point class! 
 // Coordinates are double-precision floating point.
 
 #ifndef __POINT_H

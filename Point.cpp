@@ -1,4 +1,4 @@
-#include<cmath> 
+#include<cmath>  
 #include"Point.h"
 
 // Default Constructor
