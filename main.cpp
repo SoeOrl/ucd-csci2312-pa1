@@ -37,6 +37,6 @@ int main() {
     // area tests
     test_area(ec, NumIters);
 
-	system("pause");
+
     return 0;
 }
