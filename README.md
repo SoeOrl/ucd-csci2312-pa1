@@ -2,6 +2,8 @@
 
 _working with objects_
 
+This was coded and run on Visual Studio Community 2015 and tested on the csegrid.
+
 * * *
 
 C++ lets us program with _objects_. We describe objects in C++ by declaring and defining _classes_. We _declare_ our class's structure in a header file, just like in C, and _define_ it (that is, write the code that actually does the work) in a corresponding source code file.
